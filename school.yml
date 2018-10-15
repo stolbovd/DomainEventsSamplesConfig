@@ -1,9 +1,9 @@
 configuration:
-  projectName: Domain Events Persons
+  projectName: Domain Events School
 
 server:
-  port: 8084
+  port: 8085
 
 spring:
   datasource:
-    url: jdbc:h2:mem:persons
+    url: jdbc:h2:mem:school
