@@ -11,9 +11,7 @@ spring:
     port: 5672
     username: user
     password: secret
-logging:
-  level:
-    root: WARN
+
 ---
 
 spring:
